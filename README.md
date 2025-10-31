@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 
 
 <!--
 **gimin0226/gimin0226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
