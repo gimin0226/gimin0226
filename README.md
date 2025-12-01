@@ -11,9 +11,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-##About me
+-->
+## 🙋‍♂️ About me
+
+<img src="https://github.com/user-attachments/assets/af7ec6ea-02f9-4b7f-86a0-0fa8cab961e2" width="300" alt="Profile image" />
 
 안녕하세요.  
 23살에 처음 코딩을 시작했지만, 지금은 완전히 개발의 매력에 빠져버린 김기민입니다.
@@ -25,16 +27,15 @@ Here are some ideas to get you started:
 아직 많이 부족하지만,  
 꾸준한 학습과 기록을 통해 성장하는 개발자가 되겠습니다. 🙂
 
----
 
-### 🧾 이력
+## 🧾 이력
 
-- `2020.03 ~ 2021.12` 강원대학교 물리학과 재학  
+- `2020.03 ~ 2021.12` 강원대학교 물리학과 
 - `2022.03 ~ 재학 중` 숭실대학교 소프트웨어학부
 - `2023.09 ~ 2023.12` 교내 알고리즘 동아리 SCCC
 - `2024.01 ~ 2025.07` 군 복무 
-- `2025.09 ~ 현재` 기술의 물결 속에서 함께 성장하는 IT 연합동아리 TAVE
-- `2025.09 ~ 현재` 함께하는 성장을 추구하는 대학생 IT 연합동아리 코테이토
+- `2025.09 ~ 현재` IT 연합동아리 TAVE
+- `2025.09 ~ 현재` IT 연합동아리 코테이토
 
 ## 🧩 Projects
 
@@ -62,10 +63,13 @@ Here are some ideas to get you started:
  - 2025.12 ~ 현재  
  [아키텍처 스터디 2](https://github.com/Gimini-3/architecture-study-2) (스터디장)  
 
-  -->
-  --- 
+  --> 
   
+## 🧮 Algorithm & Problem Solving
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=100points)](https://solved.ac/100points/)
 
-[![Gimin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gimini-3)](https://github.com/ashutosh0071/github-readme-activity-graph)
+## 📊 GitHub Activity
+
+[![Gimin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gimini-3)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
