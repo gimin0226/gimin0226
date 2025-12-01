@@ -13,20 +13,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
+
+
 ## 🙋‍♂️ About me
+<img src="https://github.com/user-attachments/assets/af7ec6ea-02f9-4b7f-86a0-0fa8cab961e2" align="right" width="300" alt="Profile image" style="margin-left: 20px;" />
 
-<img src="https://github.com/user-attachments/assets/af7ec6ea-02f9-4b7f-86a0-0fa8cab961e2" width="300" alt="Profile image" />
+&emsp;안녕하세요.  
+&emsp;23살에 처음 코딩을 시작했지만, 지금은 완전히 개발의 매력에 빠져버린 김기민입니다.
 
-안녕하세요.  
-23살에 처음 코딩을 시작했지만, 지금은 완전히 개발의 매력에 빠져버린 김기민입니다.
+&emsp;저는 단순히 코드를 작성하는 것보다,<br>
+&emsp;**시스템 전체가 어떻게 설계되고 동작하는지**를 고민하는 걸 좋아합니다.  <br>
 
-저는 단순히 코드를 작성하는 것보다 **시스템 전체가 어떻게 설계되고 동작하는지**를 고민하는 걸 좋아합니다.  
-운영체제, 네트워크, 데이터베이스 같은 CS 기본기를 깊게 공부하며,  
-“왜 이렇게 동작하는지”를 이해하는 개발자가 되는 것을 목표로 하고 있습니다.
+&emsp;운영체제, 네트워크, 데이터베이스 같은 CS 기본기를 깊게 공부하며,  
+&emsp;“왜 이렇게 동작하는지”를 이해하는 개발자가 되는 것을 목표로 하고 있습니다.
 
-아직 많이 부족하지만,  
-꾸준한 학습과 기록을 통해 성장하는 개발자가 되겠습니다. 🙂
+&emsp;아직 많이 부족하지만,  
+&emsp;꾸준한 학습과 기록을 통해 성장하는 개발자가 되겠습니다. 🙂
 
+- email: `gimin1463@naver.com`
+
+- blog: [https://gimini-3.github.io/](https://gimini-3.github.io/)
+<br clear="both">
 
 ## 🧾 Activities
 
