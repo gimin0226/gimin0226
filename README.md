@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - email: `gimin1463@naver.com`
 
-- blog: [https://gimini-3.github.io/](https://gimini-3.github.io/)
+- blog: [Gimin's Blog](https://gimini-3.github.io/)
 <br clear="both">
 
 ## 🧾 Activities
