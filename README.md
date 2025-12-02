@@ -77,7 +77,15 @@ Here are some ideas to get you started:
  [아키텍처 스터디 2](https://github.com/Gimini-3/architecture-study-2) (스터디장)  
 
   --> 
+
+## ✏️ Blog Posts
+- [Java Thread.start() 한 번에 끝내기 – JVM·OS 레벨까지 완전 분해](https://gimini-3.github.io/Java/java-thread-start-part1-start-vs-run-code-and-flow.html)
+
+- [시스템 설계 하루 한 번 알림을 “누락 없이” 보내기 위한 Redis 큐 & 워커 설계](https://gimini-3.github.io/Architecture/system-design/at-least-once-notification-redis-queue-blmove-idempotency.html)
+
+- [카카오 OAuth 로그인 흐름 이해하기: JS SDK + Authorization Code 플로우](https://gimini-3.github.io/Architecture/security-auth/2025-11-30-kakao-login.html)
   
+
 ## 🧮 Algorithm & Problem Solving
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=100points)](https://solved.ac/100points/)
