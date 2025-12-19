@@ -78,12 +78,15 @@ Here are some ideas to get you started:
 
 
 ## ✏️ Blog Posts
-- [Java Thread.start() 한 번에 끝내기 – JVM·OS 레벨까지 완전 분해](https://gimini-3.github.io/Java/java-thread-start-part1-start-vs-run-code-and-flow.html)
+- [JVM Deep Dive Part 1 - Thread.start() vs Tread.run()](https://gimini.tistory.com/55)
 
-- [시스템 설계 하루 한 번 알림을 “누락 없이” 보내기 위한 Redis 큐 & 워커 설계](https://gimini-3.github.io/Architecture/system-design/at-least-once-notification-redis-queue-blmove-idempotency.html)
+- [시스템 설계 하루 한 번 알림을 “누락 없이” 보내기 위한 Redis 큐 & 워커 설계](https://gimini.tistory.com/60)
 
-- [카카오 OAuth 로그인 흐름 이해하기: JS SDK + Authorization Code 플로우](https://gimini-3.github.io/Architecture/security-auth/2025-11-30-kakao-login.html)
+- [카카오 OAuth 로그인 흐름 이해하기: JS SDK + Authorization Code 플로우](https://gimini.tistory.com/61)
   
+- [ONECO DDD 도메인 설계 시리즈 Part 1 - DailyContent 설계 스토리](https://gimini.tistory.com/46)
+
+- [Trouble Shooting - Redis UnknownHostException 문제를 Docker 네트워크/ DNS 관점에서 추적한 기록](https://gimini.tistory.com/44)
 
 ## 🧮 Algorithm & Problem Solving
 
