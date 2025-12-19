@@ -71,12 +71,11 @@ Here are some ideas to get you started:
 
 - `2025.09 ~ 2025.12` [아키텍처 스터디](https://github.com/IT-Cotato/12th_Cokitecture_study) (스터디장) 
 
-- `2025.12 ~ 현재` [알고리즘 문제 풀이 스터디](https://github.com/Gimini-3/algorithm-study) (스터디장)
- <!-- 
- - 2025.12 ~ 현재  
- [아키텍처 스터디 2](https://github.com/Gimini-3/architecture-study-2) (스터디장)  
+- `2025.12 ~ 현재` [알고리즘 문제 풀이 스터디](https://github.com/first-hired-first-out-algorithm-study) (스터디장)
 
-  --> 
+ - `2025.12 ~ 현재`  [아키텍처 스터디 2](https://github.com/Gimini-3/architecture-study-2) (스터디장)  
+
+
 
 ## ✏️ Blog Posts
 - [Java Thread.start() 한 번에 끝내기 – JVM·OS 레벨까지 완전 분해](https://gimini-3.github.io/Java/java-thread-start-part1-start-vs-run-code-and-flow.html)
